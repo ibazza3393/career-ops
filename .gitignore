@@ -12,6 +12,7 @@ batch/batch-state.tsv
 batch/batch-input.tsv
 batch/tracker-additions/*.tsv
 !batch/tracker-additions/.gitkeep
+batch/tracker-additions/merged/
 jds/*
 !jds/.gitkeep
 
