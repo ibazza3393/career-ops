@@ -58,7 +58,7 @@ Strategised and led the UI/UX design work for Spark users, collaborating with ke
 Designed and delivered high-impact projects for Australasian startup clients based in Sydney, Brisbane and Auckland.
 
 **Achievements:**
-- Launched ZendiT weird farm Web & iOS application improving project visibility and progress by 40%.
+- Led full UX/UI redesign of ZendIT's AI-powered wind farm construction platform (Web & Mobile), improving project visibility and progress tracking by 40%.
 - Shipped invoicing software for Brisbane-based startup Pricl Labs.
 - Designed e-commerce websites for small independent entrepreneurs.
 - Designed, ideated and tested the early concepts of the Explore AR app prototype to increase awareness amongst early adopters.
